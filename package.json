@@ -1,0 +1,22 @@
+{
+  "name": "evaluation_comp_8",
+  "version": "1.0.0",
+  "description": "Il vous est demandé de prototyper et d'intégrer une page listant différentes chambres d'un hôtel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredsalm/evaluation_comp_8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredsalm/evaluation_comp_8/issues"
+  },
+  "homepage": "https://github.com/Fredsalm/evaluation_comp_8#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
